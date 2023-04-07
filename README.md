@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdjMmUwZDU2MjFiOTRlNjFhMjUwZmUzYWY3YzdlMzIyNDEzMGQyNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **databases, data visualization, and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://impritamlaskar.wixsite.com/mysite](https://impritamlaskar.wixsite.com/mysite)
-
 - 📫 How to reach me **impritamlaskar@gmail.com**
 
 - ⚡ Fun fact **I believe Walter White and Gustavo Fring are brothers in an alternate universe.**
