@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Laskar</h1>
-<h3 align="center">An aspiring data specialist.</h3>
+<h3 align="center">An aspiring specialist in business intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdjMmUwZDU2MjFiOTRlNjFhMjUwZmUzYWY3YzdlMzIyNDEzMGQyNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
