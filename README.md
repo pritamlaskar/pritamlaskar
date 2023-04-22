@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdjMmUwZDU2MjFiOTRlNjFhMjUwZmUzYWY3YzdlMzIyNDEzMGQyNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning **databases and exploratory data analysis.**<br>📫 How to reach me **impritamlaskar@gmail.com**<br>👯 I’m looking to collaborate on **EDA projects**.<br>💬 Ask me about **technology entrepreneurship**.</br>⚡ Fun fact **I believe Walter White and Gustavo Fring are brothers in an alternate universe.**
+🌱 I’m currently learning **databases and exploratory data analysis.**<br>📫 How to reach me **impritamlaskar@gmail.com**<br>👯 I’m looking to collaborate on **EDA projects**.</br>⚡ Fun fact **I believe Walter White and Gustavo Fring are brothers in an alternate universe.**
 
 
 ## 🌐 Socials:
