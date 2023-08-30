@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritamlaskar/) 
 
 # 💻 Tech Stack:
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%21774759.svg?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%230A6E43.svg?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,7 +22,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%230075EB.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-%2386B41E.svg?style=for-the-badge&logo=wix&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-%23B80F0A.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 
 ---
