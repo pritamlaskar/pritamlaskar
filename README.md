@@ -21,8 +21,6 @@
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%230096C3.svg?style=for-the-badge&logo=beautiful%20soup&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%230075EB.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-%23B80F0A.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 
 ---
