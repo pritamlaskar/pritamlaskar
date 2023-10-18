@@ -18,9 +18,10 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-%230095D7.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%230096C3.svg?style=for-the-badge&logo=beautiful%20soup&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-%230070C8.svg?style=for-the-badge&logo=r&logoColor=white)
+
 
 
 ---
