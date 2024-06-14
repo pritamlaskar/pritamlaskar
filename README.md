@@ -5,7 +5,6 @@
 # 💫 About Me:
 🌱 I’m currently learning **data analytics and machine learning.**<br>📫 How to reach me **impritamlaskar@gmail.com**<br>👯 I’m looking to collaborate on **business intelligence projects**.</br>⚡ Fun fact **I believe Walter White and Gustavo Fring are brothers.**
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritamlaskar/) 
 
