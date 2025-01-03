@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdjMmUwZDU2MjFiOTRlNjFhMjUwZmUzYWY3YzdlMzIyNDEzMGQyNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning **data analytics and machine learning.**<br>📫 How to reach me **impritamlaskar@gmail.com**<br>👯 I’m looking to collaborate on **business intelligence projects**.</br>⚡ Fun fact **I believe Walter White and Gustavo Fring are brothers.**
+🌱 I’m currently learning **data analytics.**<br>📫 How to reach me **itspmlaskar@gmail.com**<br>👯 I’m looking to collaborate on **business intelligence projects**.</br>⚡ Fun fact **I am Bayern Munschen fan.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritamlaskar/) 
