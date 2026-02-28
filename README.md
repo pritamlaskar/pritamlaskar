@@ -1,12 +1,12 @@
-<!-- NAVY HEADER -->
+<!-- NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:142D4C&height=190&section=header&text=Pritam%20Laskar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:B026FF&height=200&section=header&text=Pritam&fontSize=50&fontColor=0D1117&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPS%20SYSTEMS-142D4C?style=for-the-badge&logo=reactos&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/PROCESS%20DESIGN-142D4C?style=for-the-badge&logo=task&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/OPS%20ANALYTICS-142D4C?style=for-the-badge&logo=googlesheets&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/OPS%20SYSTEMS-111827?style=for-the-badge&logo=reactos&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/PROCESS%20DESIGN-111827?style=for-the-badge&logo=task&logoColor=B026FF"/>
+  <img src="https://img.shields.io/badge/OPS%20ANALYTICS-111827?style=for-the-badge&logo=googlesheets&logoColor=39FF14"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 🤝 Exploring API & workflow automation  
 🌱 Learning advanced systems design  
 💬 Ask me about trackers & dashboards  
-⚡ Systems over chaos  
+⚡ Systems > chaos  
 
 ---
 
@@ -34,27 +34,27 @@
 
 ## 💻 Tech Stack
 
-### Operations & Data
+### ⚙️ Operations & Data
 <p>
-  <img src="https://img.shields.io/badge/Google%20Sheets-142D4C?style=for-the-badge&logo=googlesheets&logoColor=22C55E"/>
-  <img src="https://img.shields.io/badge/Airtable-142D4C?style=for-the-badge&logo=airtable&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Excel-142D4C?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E"/>
-  <img src="https://img.shields.io/badge/MySQL-142D4C?style=for-the-badge&logo=mysql&logoColor=60A5FA"/>
-  <img src="https://img.shields.io/badge/Python-142D4C?style=for-the-badge&logo=python&logoColor=FACC15"/>
-  <img src="https://img.shields.io/badge/Pandas-142D4C?style=for-the-badge&logo=pandas&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Power%20BI-142D4C?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
-  <img src="https://img.shields.io/badge/Tableau-142D4C?style=for-the-badge&logo=tableau&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Postman-142D4C?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-111827?style=for-the-badge&logo=googlesheets&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Airtable-111827?style=for-the-badge&logo=airtable&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
 
 ### 🤖 AI Systems & Creative Workflow
 <p>
-  <img src="https://img.shields.io/badge/Claude-142D4C?style=for-the-badge&logo=anthropic&logoColor=F97316"/>
-  <img src="https://img.shields.io/badge/ChatGPT-142D4C?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Lovable-142D4C?style=for-the-badge&logo=heart&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/Gamma%20AI-142D4C?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Lovable-111827?style=for-the-badge&logo=heart&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/Gamma%20AI-111827?style=for-the-badge&logo=vercel&logoColor=B026FF"/>
 </p>
 
 Used for:  
@@ -66,15 +66,15 @@ Used for:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pritamlaskar&theme=transparent&bg_color=0B1F3A&title_color=FFFFFF&text_color=E6EDF3&icon_color=38BDF8&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=pritamlaskar&theme=transparent&bg_color=111827&title_color=00F5FF&text_color=FFFFFF&icon_color=B026FF&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=pritamlaskar&theme=transparent&background=0B1F3A&hide_border=true&ring=38BDF8&fire=A78BFA&currStreakLabel=FFFFFF&sideLabels=E6EDF3&dates=94A3B8)
+![](https://streak-stats.demolab.com?user=pritamlaskar&theme=transparent&background=111827&ring=00F5FF&fire=B026FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=39FF14&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamlaskar&theme=transparent&bg_color=0B1F3A&title_color=FFFFFF&text_color=E6EDF3&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamlaskar&theme=transparent&bg_color=111827&title_color=00F5FF&text_color=FFFFFF&hide_border=true&layout=compact)
 
 ---
 
-<!-- NAVY FOOTER -->
+<!-- NEON FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142D4C,100:0B1F3A&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:00F5FF&height=150&section=footer" />
 </p>
