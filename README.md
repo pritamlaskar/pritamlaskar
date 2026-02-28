@@ -1,100 +1,76 @@
-<h1 align="center">Pritam Laskar</h1>
-<h3 align="center">Operations • Process Design • Ops Analytics</h3>
-
+<!-- DARK PREMIUM HEADER -->
 <p align="center">
-I build structured workflows, tracking systems, and lightweight automations that make operations predictable, measurable, and scalable.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,100:1A1F3C&height=180&section=header&text=Pritam%&fontSize=48&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="mailto:itspmlaskar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itspmlaskar%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pritamlaskar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pritam%20Laskar-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/OPS%20SYSTEMS-1F2937?style=for-the-badge&logo=reactos&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/PROCESS%20DESIGN-1F2937?style=for-the-badge&logo=task&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/OPS%20ANALYTICS-1F2937?style=for-the-badge&logo=googlesheets&logoColor=10B981" />
+</p>
+
+<p align="center">
+  <b>Turning messy operations into structured, measurable systems.</b>
 </p>
 
 ---
 
-## What I Do
-
-- Design **repeatable operational workflows**
-- Build **trackers and control systems** (Sheets / Airtable)
-- Create **KPI dashboards** for decision visibility
-- Implement **status logic, rotation systems, and lifecycle tracking**
-- Automate repetitive ops using **Python / Apps Script / APIs**
-
-I focus on making messy operations structured and trackable.
+## 💫 About Me
+🔭 Building scalable ops systems  
+👯 Open to ops & analytics collaboration  
+🤝 Exploring API & workflow automation  
+🌱 Learning advanced systems design  
+💬 Ask me about trackers & dashboards  
+⚡ Systems over chaos  
 
 ---
 
-## Core Work Areas
-
-### Workflow & Process Design
-SOP creation, escalation logic, handoffs, cooldown rules, exception tracking, QA systems.
-
-### Ops Analytics
-Throughput tracking, lifecycle monitoring, cohort trends, SLA measurement, root-cause breakdown.
-
-### Automation
-Data cleaning scripts, validation systems, scheduled summaries, API-based workflows.
+## 🧩 Ops Builds
+**Ops Tracker** — lifecycle + status logic + KPI control  
+**Ops Dashboard** — funnel, SLA, performance tracking  
+**Automation Tools** — cleaning, validation, alerts  
 
 ---
 
-## Selected Systems Built
+## 💻 Tech Stack
 
-### Ops Tracker System
-Centralized inventory + lifecycle control system  
-Automated status updates, validation rules, rollups, and KPI view  
-Single source of truth for operational visibility
-
-### Reporting Dashboard
-Funnel tracking, trend analysis, SLA monitoring  
-Built for weekly performance review and decision clarity
-
-### Automation Utilities
-Python and Apps Script tools to reduce manual workload  
-CSV cleaning, validation checks, alerts, recurring summaries
-
----
-
-## Tools & Stack
-
-**Operations & Data**
-- Google Sheets (advanced formulas)
-- Airtable
-- Microsoft Excel
-- SQL (MySQL)
-
-**Analytics & Reporting**
-- Power BI
-- Tableau
-- Python (pandas, numpy)
-
-**Automation**
-- Python scripting
-- Google Apps Script
-- API integrations
-- No-code workflow tools
+### Operations & Data
+<p>
+  <img src="https://img.shields.io/badge/Google%20Sheets-111827?style=for-the-badge&logo=googlesheets&logoColor=10B981"/>
+  <img src="https://img.shields.io/badge/Airtable-111827?style=for-the-badge&logo=airtable&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F59E0B"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
 
 ---
 
-## Operating Style
+### 🤖 AI Systems & Creative Workflow
+<p>
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=F97316"/>
+  <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Lovable-111827?style=for-the-badge&logo=heart&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/Gamma%20AI-111827?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/>
+</p>
 
-- Metrics first
-- Process before scale
-- Clarity over complexity
-- Systems over heroics
+Used for:  
+• Prompt engineering & structured reasoning (Claude, ChatGPT)  
+• Vibe-coding & rapid interface builds (Lovable)  
+• AI presentations & narrative flows (Gamma AI)  
 
 ---
 
-## Currently Working On
-
-Improving operational lifespan, tracking efficiency, and automation depth within high-volume execution environments.
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=pritamlaskar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=pritamlaskar&theme=github-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamlaskar&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
-## Contact
-
-Email: itspmlaskar@gmail.com  
-LinkedIn: https://www.linkedin.com/in/pritamlaskar/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1021,100:1A1F3C&height=120&section=footer"/>
+</p>
