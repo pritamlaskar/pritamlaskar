@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Turning messy operations into structured, measurable systems.</b>
+  <b>Designing structured and data-driven operational systems.</b>
 </p>
 
 ---
