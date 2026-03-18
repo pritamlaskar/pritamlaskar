@@ -20,7 +20,7 @@
 🌱 Learning advanced systems design  
 ⚡ Systems > chaos  
 
-## 💻 Tech Stack
+## 💻 Tech I've worked with
 
 ### ⚙️ Operations & Data
 <p>
