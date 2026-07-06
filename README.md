@@ -1761,7 +1761,7 @@
       <a href="#book" class="btn-white">Book a Free 15-min Call →</a>
       <a href="https://www.behance.net/pritamlaskar2" target="_blank" rel="noopener" class="btn-ghost-inv">See My Work</a>
     </div>
-  </div>
+  </div> 
 </div>
 
 <!-- BOOK -->
