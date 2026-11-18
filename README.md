@@ -22,13 +22,7 @@
 
 <br>
 
-<p align="center">
-  <img src="assets/steps.svg" alt="How it works: a free call, a simple plan, I build it, you're covered." width="100%">
-</p>
-
-<br>
-
-<p align="center">
+<p align="center">
   <img src="assets/stack.svg" alt="Stack: AI and automation, data engineering, backend, frontend, CMS, e-commerce, sales integrations, design." width="100%">
 </p>
 
